@@ -39,3 +39,37 @@
 	4. Procesamiento distribuido y paralelo.
 	5. Computación y comunicaciones ubicuas.
 	6. Aplicaciones de Inteligencia Artificial.
+
+
+## Arquitectura de un computador
+Define su comportamiento funcional y se puede caracterizar por el número de unidades funcionales y como se interconectan entre sí: 
+* **Arquitectura Von Neumann** (Memoria combinada)
+* **Arquitectura Harvard** (Memoria segregada)
+### Arquitectura Von Neumann
+(IMAGEN)
+* Es la base de la inmensa mayoría de computadores actuales:
+	* La memoria almacena instrucciones y datos.
+	* La unidad central de procesamiento (CPU) ejecuta instrucciones.
+	* Las instrucciones pueden leer y escribir datos en memoria y acceder al sistema de  entrada/salida.
+
+### Arquitectura Harvard 
+* La memoria de datos e instrucciones está separada
+	* En un mismo ciclo se puede acceder a la instrucción y a los datos.
+	* Esta arquitectura funciona mejor cuando la frecuencia de instrucciones y datos es aproximadamente la misma. Normalmente se suele utilizar en DSP (Digital Signal Processor).
+
+## Unidades funcionales del computador
+* **Unidad Central de Proceso** (CPU):
+	* Es el componente que interpreta las instrucciones y procesa los datos contenidos en los programas.
+* **Memoria**
+	* Dispositivo de almacenamiento que permite lectura y escritura.
+	* En general, el procesador accede a la memoria como si esta fuera un vector indexado por *direcciones*.
+(IMÁGENES)
+
+* **Sistema de E/S** (Entrada/Salida):
+	* Permite la comunicación entre CPU y periféricos externos (Ratón, teclado, impresora, etc.)
+IMAGEN
+
+
+## Sistemas de representación básicos
+* **Sistema de numeración**
+	* 
