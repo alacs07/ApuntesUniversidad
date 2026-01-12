@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tema 1"
             }
+          },
+          {
+            "id": "00398a7ea8d6e94f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-12 12.20.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-12 12.20.47.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2026-01-12 12.20.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de Drawing 2026-01-12 12.20.47.excalidraw"
             }
           },
           {
@@ -183,6 +196,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "fc0ca999f7380952",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
             }
           }
         ],
@@ -208,10 +231,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5c68c9a9a07962b0",
+  "active": "8014e13499fec22f",
   "lastOpenFiles": [
-    "README.md",
     "1-Fundamentos de Computadores/Tema 1.md",
+    "Excalidraw/Drawing 2026-01-12 12.20.47.excalidraw.md",
+    "Excalidraw",
+    "README.md",
     "1-Fundamentos de Computadores",
     "Sin título.base",
     "Sin título 1.base"

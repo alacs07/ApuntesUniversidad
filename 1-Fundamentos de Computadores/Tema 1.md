@@ -72,4 +72,16 @@ IMAGEN
 
 ## Sistemas de representación básicos
 * **Sistema de numeración**
+	* Conjunto de signos, reglas y convenciones que permiten expresar cantidades verbal y gráficamente.
+	* Ejemplo: Decimal y binario.
+* **Base de un sistema de numeración**
+	* Número de símbolos distintos que se emplean. Cada uno de estos símbolos se denomina **dígito**.
+	* Ejemplo: Decimal => 10 signos y Binario => 2 signos.
+* **Sistema de numeración posicional**: 
+	* Un número viene definido por una cadena de dígitos, donde cada uno de ellos está afectado por un factor de escala.
+
+### Sistema binario
+* Base = 2; Dígitos = 0 y 1 (bits).
+* Una cantidad *N* se representa mediante una secuencia de bits 
+	* Ejemplo: 
 	* 
